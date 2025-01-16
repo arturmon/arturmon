@@ -34,6 +34,10 @@
 
 ### 🚀 Featured Projects
 
+- [**AWS S3 stream media server**](https://github.com/arturmon/s3MediaStreamer): A tool designed to stream media files directly from AWS S3, providing functionality to serve media files over HTTP, allowing clients like media players (e.g., VLC) to access and stream content in real-time.
+- [**AWS S3 stream media server Deploy**](https://github.com/arturmon/s3MediaStreamer-env): Helm chart repository for deploying the s3MediaStreamer application.
+- [**AWS S3 stream media server Infrastructure**](https://github.com/arturmon/s3MediaStreamer-Infra): Infrastructure as Code (IaC) configurations for setting up the necessary environment for s3MediaStreamer.
+- [**PGbouncer SCRAMSHA256 Generator**](https://github.com/arturmon/pgbouncer-scramsha256-generator): A simple Go program to generate SCRAM-SHA-256 password hashes with customizable iterations. It takes a password and the number of PBKDF2 iterations as command-line arguments and outputs a formatted SCRAM-SHA-256 hash.
 - [**Arduino Mega Server**](https://github.com/arturmon/Arduino-Mega-Server-): Smart living server implementation using Arduino Mega.
 - [**IBoard MQTT Gateway**](https://github.com/arturmon/IBoardMQTTGateway): MQTT gateway implementation for IBoard.
 - [**MQTT Buttons Relay**](https://github.com/arturmon/MQTTButtomsRelay): Arduino-based MQTT buttons relay controller.
