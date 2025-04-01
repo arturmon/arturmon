@@ -43,6 +43,8 @@
 - [**MQTT Buttons Relay**](https://github.com/arturmon/MQTTButtomsRelay): Arduino-based MQTT buttons relay controller.
 - [**Iboard Ethernet Gateway**](https://github.com/arturmon/IboardEthernetGateway): Ethernet gateway implementation for IBoard.
 - [**ESP8266 EasyIoT Library**](https://github.com/arturmon/Arduino-1): ESP8266 EasyIoT library and sensor examples.
+- There are also a couple of closed projects that are written in go and are involved in playing on a crypto exchange with reinforcement learning and neural networks.
+- ...
 
 ---
 
